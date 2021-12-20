@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>Hey.. Deplying using Ansible playbook.. Yay! </h1>
+   <h1>Hey.. Deplying on a docker container using Ansible playbook from jenkins job.. Yay! </h1>
 
   
 </form>
